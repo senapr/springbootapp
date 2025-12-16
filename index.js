@@ -9,3 +9,7 @@ function greet(userName) {
 function isAdult(userAge) {
     return userAge >= 18;
 }
+
+function add(a, b) {
+    return a + b;
+}
